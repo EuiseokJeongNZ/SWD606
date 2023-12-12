@@ -1,0 +1,87 @@
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Bella Internet Cafe.exe.config
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Bella Internet Cafe.exe
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Bella Internet Cafe.pdb
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Azure.Core.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Azure.Identity.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Data.SqlClient.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Buffers.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.IO.FileSystem.AccessControl.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Memory.Data.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Memory.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Numerics.Vectors.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.AccessControl.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.Permissions.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Text.Json.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.ValueTuple.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Azure.Core.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Azure.Identity.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Data.SqlClient.pdb
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Data.SqlClient.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Protocols.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Buffers.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.IO.FileSystem.AccessControl.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Memory.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Memory.Data.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Numerics.Vectors.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.AccessControl.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.Permissions.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Text.Json.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\System.ValueTuple.xml
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\bin\Release\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella Internet Cafe.csproj.AssemblyReference.cache
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Download.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Invoice.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Main.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Print.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Search.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.SignIn.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.SignUp.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Properties.Resources.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella_Internet_Cafe.Upload.resources
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella Internet Cafe.csproj.GenerateResource.cache
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella Internet Cafe.csproj.CoreCompileInputs.cache
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella Internet Cafe.csproj.CopyComplete
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella Internet Cafe.exe
+C:\Users\dmltj\Desktop\SWD606_A2_SoftwareDevelopmentPractices_EuiseokJeong_764703297\Bella Internet Cafe\Bella Internet Cafe\obj\Release\Bella Internet Cafe.pdb
